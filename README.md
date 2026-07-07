@@ -53,9 +53,6 @@ I enjoy building solutions that are **secure, scalable, reliable, and focused on
 
 ---
 
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
