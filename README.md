@@ -54,96 +54,15 @@ I enjoy building solutions that are **reliable, scalable, secure, and aligned wi
 
 ---
 
-# 💻 Technical Skills
-
-## Programming Languages
-
-| Languages  |
-| ---------- |
-| Python     |
-| JavaScript |
-| TypeScript |
-| Java       |
-| C          |
-| C++        |
-| SQL        |
-| PHP        |
-| Bash       |
-| PowerShell |
-
----
-
-## Frontend Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Next.js
-* Tailwind CSS
-* Bootstrap
-
----
-
-## Backend Technologies
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication Systems
-
----
-
-## Databases
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* Firebase
-
----
-
-## Networking & Security
-
-* Network Configuration
-* TCP/IP
-* DNS
-* DHCP
-* VPN Technologies
-* Firewall Management
-* Security Fundamentals
-* Vulnerability Assessment
-* Risk Management
-* Access Control
-* Security Monitoring
-
----
-
-## Cloud Technologies
-
-* Cloud Infrastructure
-* Virtual Machines
-* Containerization
-* Cloud Security Concepts
-* Infrastructure Deployment
-* High Availability Systems
-
----
-
-## Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* Ubuntu
-* Linux
-* Windows Server
-* VS Code
-* Postman
-* VirtualBox
-* VMware
-
----
+💻 Technical Skills
+Category	Technologies
+Programming Languages	Python • JavaScript • TypeScript • Java • C • C++ • SQL • PHP • Bash • PowerShell
+Frontend Technologies	HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap
+Backend Technologies	Node.js • Express.js • REST APIs • Authentication Systems
+Databases	MySQL • PostgreSQL • MongoDB • Firebase
+Networking & Security	Network Configuration • TCP/IP • DNS • DHCP • VPN Technologies • Firewall Management • Security Fundamentals • Vulnerability Assessment • Risk Management • Access Control • Security Monitoring
+Cloud Technologies	Cloud Infrastructure • Virtual Machines • Containerization • Cloud Security Concepts • Infrastructure Deployment • High Availability Systems
+Tools & Platforms	Git • GitHub • Docker • Ubuntu • Linux • Windows Server • VS Code • Postman • VirtualBox • VMware
 
 # 🔐 Areas of Expertise
 
