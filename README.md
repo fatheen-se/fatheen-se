@@ -59,11 +59,34 @@ I enjoy building solutions that are **secure, scalable, reliable, and focused on
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-* **LinkedIn:** https://linkedin.com/in/fatheen-se
-* **GitHub:** https://github.com/Fatheen-se
-* **Portfolio:** https://fatheen-se.github.io/myporfolio/
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fatheen-se" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Fatheen-se" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://fatheen-se.github.io/myporfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect & Collaborate
+
+Open to discussions on **Full Stack Development**, **Cybersecurity**, **Cloud Technologies**, **AI**, and innovative technology solutions.
+
+</div>
+
 
 ---
 
