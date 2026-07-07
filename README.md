@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fatheen
 
-### Full Stack Developer • Network & Cloud Security Practitioner • Cybersecurity Enthusiast • AI Explorer
+### Full Stack Developer • Network & Cloud Security Practitioner • Cybersecurity Enthusiast • AI Explorer • DevSecOps
 
 > Building secure, scalable, and intelligent digital solutions through modern software development, cloud technologies, and cybersecurity best practices.
 
@@ -53,9 +53,6 @@ I enjoy building solutions that are **secure, scalable, reliable, and focused on
 
 ---
 
-## 🎯 Career Interests
-
-**Full Stack Development • Cloud Security • Cybersecurity • DevSecOps • Cloud Infrastructure**
 
 ---
 
