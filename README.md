@@ -65,7 +65,7 @@ I enjoy building solutions that are **secure, scalable, reliable, and focused on
   <img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://fatheen-se.github.io/myporfolio/" target="_blank">
+<a href="https://my-portfolio-nixe6a30r-fatheen-nizam.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
 </a>
 
